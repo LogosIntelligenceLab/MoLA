@@ -194,13 +194,13 @@ bash scripts/rollout_libero.sh \
 - [Moto](https://github.com/TencentARC/Moto)
 - [DreamVLA](https://github.com/Zhangwenyao1/DreamVLA)
 
-## Citation
+## Reference
 
 ```bibtex
-@article{li2026imagined,
+@inproceedings{li2026imaginedfutures,
   title={From Imagined Futures to Executable Actions: Mixture of Latent Actions for Robot Manipulation},
   author={Li, Yajie and Zhang, Bozhou and Gu, Chun and Ma, Zipei and Zhang, Jiahui and Deng, Jiankang and Zhu, Xiatian and Zhang, Li},
-  journal={arXiv preprint arXiv:2605.12167},
+  booktitle={Forty-third International Conference on Machine Learning},
   year={2026}
 }
 ```
